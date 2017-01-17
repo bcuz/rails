@@ -15,4 +15,4 @@
 //= require turbolinks
 //= require_tree .
 
-console.log("hi")
+$("h1").text("Else")
