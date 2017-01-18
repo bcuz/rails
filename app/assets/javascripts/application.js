@@ -15,4 +15,5 @@
 //= require turbolinks
 //= require_tree .
 
+
 $("h1").text("Else")
