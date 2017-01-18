@@ -15,12 +15,14 @@
 //= require turbolinks
 //= require_tree .
 
+
 		jQuery(document).ready(function($) {
+      // some sort of bug with unslider not being found
+      
 			$('.my-slider').unslider({
             arrows: false
       });
-      
-      
+
       
 		});
 
