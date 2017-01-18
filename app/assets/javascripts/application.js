@@ -16,6 +16,11 @@
 //= require_tree .
 
 		jQuery(document).ready(function($) {
-			$('.my-slider').unslider();
+			$('.my-slider').unslider({
+            arrows: false
+      });
+      
+      
+      
 		});
 
