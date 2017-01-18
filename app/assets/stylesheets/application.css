@@ -16,4 +16,6 @@
 
 .unslider {
   background-color: lightgray;
+  max-width: 500px;
+  margin: 0 auto;
 }
